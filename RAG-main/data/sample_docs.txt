@@ -1,0 +1,16 @@
+LangChain is a framework for developing applications powered by large language models (LLMs).
+It focuses on composability: you can combine prompts, LLMs, tools, memory, and more into reusable chains.
+
+LangGraph extends LangChain with graph-based control flow.
+Instead of a single linear chain, you define a state machine where each node is a step that can update shared state.
+
+Retrieval-Augmented Generation (RAG) combines an LLM with a retriever over external data.
+At query time, the retriever finds relevant chunks of documents which are then fed to the LLM to ground its answers.
+
+Agentic RAG gives the LLM more autonomy.
+The LLM acts as an agent that can decide when to call tools like a retriever or a web search to gather supporting evidence.
+
+This is a small local corpus used to demonstrate basic RAG behavior.
+
+
+
