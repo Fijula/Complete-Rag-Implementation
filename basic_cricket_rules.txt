@@ -1,0 +1,17 @@
+1. Basics of the Game
+Objective: Score more runs than the opponent.
+
+Teams: Two teams of 11 players each.
+
+Innings: Each team gets one or two innings depending on the format.
+
+Formats:
+- Test Cricket: Up to 5 days, unlimited overs.
+- One Day International (ODI): 50 overs per side.
+- Twenty20 (T20): 20 overs per side.
+
+2. Player Roles
+- Batsmen: Aim to score runs.
+- Bowlers: Aim to dismiss batsmen and restrict runs.
+- Fielders: Support bowlers by catching the ball and stopping runs.
+- Wicketkeeper: Specialized fielder behind the stumps.
